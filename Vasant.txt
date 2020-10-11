@@ -1,1 +1,2 @@
 System,out.print("hey peanuts");
+system.out.print("what is the weather today");
